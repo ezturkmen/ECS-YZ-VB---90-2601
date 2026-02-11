@@ -6,6 +6,7 @@ Ders 1 - Python Giriş: https://colab.research.google.com/drive/1-rwal9VdfbXfPdv
 Ders 2 - Python Giriş2: https://colab.research.google.com/drive/1WXX2Rmg69D7pKkZ4a8vY8HNGddKXT1X4?usp=sharing
 
 Ders 3 - Veri Bilimi: https://colab.research.google.com/drive/1W7QA0GoJxjngqvnxNkzyKNHWqehl1dmz?usp=sharing
+
 Data: https://drive.google.com/file/d/1h3K0ma5o3yRgAkzwOb9vwic_moH3Aqfr/view?usp=sharing
 
 
