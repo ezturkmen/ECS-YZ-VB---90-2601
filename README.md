@@ -9,6 +9,7 @@ Ders 2 - Python Giriş2: https://colab.research.google.com/drive/1WXX2Rmg69D7pKk
 
 Ders 3 - Veri Bilimi: https://colab.research.google.com/drive/1W7QA0GoJxjngqvnxNkzyKNHWqehl1dmz?usp=sharing
 
+Ödev Restaurant Tips : https://colab.research.google.com/drive/18Su-z-1dYaIvpLZh3TVD2rC7WEfd7ZEa?usp=sharing
 Data: https://drive.google.com/file/d/1h3K0ma5o3yRgAkzwOb9vwic_moH3Aqfr/view?usp=sharing
 
 
