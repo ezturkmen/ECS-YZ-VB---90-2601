@@ -5,6 +5,7 @@ Ders 1 - Python Giriş: https://colab.research.google.com/drive/1-rwal9VdfbXfPdv
 Ödev: https://colab.research.google.com/drive/1j8wplmspSkRuQAJ4XtZvU8X149EtVhzq?usp=sharing
 
 Ders 2 - Python Giriş2: https://colab.research.google.com/drive/1WXX2Rmg69D7pKkZ4a8vY8HNGddKXT1X4?usp=sharing
+Ödev: https://colab.research.google.com/drive/1qfldA2wK3gC65FQNkslJdUcisy_npLK_?usp=sharing
 
 Ders 3 - Veri Bilimi: https://colab.research.google.com/drive/1W7QA0GoJxjngqvnxNkzyKNHWqehl1dmz?usp=sharing
 
