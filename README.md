@@ -15,6 +15,8 @@ Data: https://drive.google.com/file/d/1h3K0ma5o3yRgAkzwOb9vwic_moH3Aqfr/view?usp
 Ödev Analiz: https://colab.research.google.com/drive/1GwYXWjFjIHJu7LSc_d7j-HM0D5_UPMYW?usp=sharing
 Data: https://drive.google.com/file/d/1h3K0ma5o3yRgAkzwOb9vwic_moH3Aqfr/view?usp=sharing
 
+Ödev Restaurant Tips -2 :https://colab.research.google.com/drive/1-Mcoo7Y2ujCpidSPrecMS7kcDd9cU17N?usp=sharing
+
 
 
 
