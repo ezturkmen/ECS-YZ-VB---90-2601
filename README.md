@@ -17,6 +17,7 @@ Data: https://drive.google.com/file/d/1h3K0ma5o3yRgAkzwOb9vwic_moH3Aqfr/view?usp
 
 Ödev Restaurant Tips -2 :https://colab.research.google.com/drive/1-Mcoo7Y2ujCpidSPrecMS7kcDd9cU17N?usp=sharing
 
+Ders 4 - Kaggle Titanik Yarışması: https://www.kaggle.com/code/ezturkmen/titanik-yar-mas
 
 
 
